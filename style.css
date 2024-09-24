@@ -1,0 +1,11 @@
+h1{
+    font-size: 16px;
+    color: blue;
+}
+p{
+    text-align: justify;
+}
+.container-img{
+    display: flex;
+    justify-content: space-between;
+}
